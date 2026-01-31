@@ -1,5 +1,4 @@
 <div style="display: none;">
-
 <p><a href="https://bluemuse.univ-lyon1.fr/">https://bluemuse.univ-lyon1.fr/</a></p>
 <p><a href="https://jessedraxler.com/exhibition/">https://jessedraxler.com/exhibition/</a></p>
 <p><a href="https://www.swiftechie.com/popohu_minilite5/">https://www.swiftechie.com/popohu_minilite5/</a></p>
