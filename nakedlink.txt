@@ -1,4 +1,7 @@
-<div style="display: none;">
+<div class="external-links" style="margin-top:20px;font-size:11px;opacity:0.6;">
+<strong>Recommended Resources:</strong>
+
+<div class="external-list">
 <p><a href="https://www.planetboston.org/about/">https://www.planetboston.org/about/</a></p>
 <p><a href="https://laviniafansub.site/">https://laviniafansub.site/</a></p>
 <p><a href="https://www.geon-energy.com/">https://www.geon-energy.com/</a></p>
@@ -8,7 +11,6 @@
 <p><a href="https://odin.rvbar.ru/">https://odin.rvbar.ru/</a></p>
 <p><a href="https://tunaskaryajakarta.sch.id/">https://tunaskaryajakarta.sch.id/</a></p>
 <p><a href="https://fcskif.pp.ua/">https://fcskif.pp.ua/</a></p>
-<p><a href="https://alejandrodavidovich.com/">https://alejandrodavidovich.com/</a></p>
 <p><a href="https://mycreativitymypower.eu/">https://mycreativitymypower.eu/</a></p>
 <p><a href="https://vivo500-joker-lonely17.pages.dev/">https://vivo500-joker-lonely17.pages.dev/</a></p>
 <p><a href="https://ngynlananh.id.vn/">https://ngynlananh.id.vn/</a></p>
@@ -17,5 +19,6 @@
 <p><a href="https://assets.fineline.uk.com/">https://assets.fineline.uk.com/</a></p>
 <p><a href="https://servicelaptopjogja.co.id/">https://servicelaptopjogja.co.id/</a></p>
 <p><a href="https://ecospas.co.nz/">https://ecospas.co.nz/</a></p>
-<p><a href="https://desavm.pucv.cl/">https://desavm.pucv.cl/</a></p>
+</div>
+
 </div>
